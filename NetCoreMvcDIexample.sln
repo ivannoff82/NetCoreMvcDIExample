@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreMvcDIExample", "NetCoreMvcDIexample\NetCoreMvcDIExample.csproj", "{065FDF2D-1F15-4F14-8654-8458BD7D7156}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{065FDF2D-1F15-4F14-8654-8458BD7D7156}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{065FDF2D-1F15-4F14-8654-8458BD7D7156}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{065FDF2D-1F15-4F14-8654-8458BD7D7156}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{065FDF2D-1F15-4F14-8654-8458BD7D7156}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC786CB0-2B98-4F70-8773-9DCDDC5185F6}
+	EndGlobalSection
+EndGlobal
